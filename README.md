@@ -1,1 +1,1 @@
-# new
+# newGit is easy
